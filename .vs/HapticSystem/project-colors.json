@@ -5,7 +5,22 @@
       "ProjectGuid": "04142365-b39d-5eb3-de97-995f9ea9411d",
       "DisplayName": "Assembly-CSharp-Editor",
       "ColorIndex": 0
+    },
+    "5f776cc5-190e-3f4f-2095-db58db175a2a": {
+      "ProjectGuid": "5f776cc5-190e-3f4f-2095-db58db175a2a",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "其他檔案",
+      "ColorIndex": -1
+    },
+    "9b6ffc8b-f646-c840-7777-591ab06199dd": {
+      "ProjectGuid": "9b6ffc8b-f646-c840-7777-591ab06199dd",
+      "DisplayName": "HapticSystem.Editor",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
