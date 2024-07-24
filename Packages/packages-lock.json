@@ -136,7 +136,7 @@
       "url": "https://packages.unity.com"
     },
     "com.ygm.hapticsystem_package": {
-      "version": "file:com.ygm.hapticsystem",
+      "version": "file:HapticEngine",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
