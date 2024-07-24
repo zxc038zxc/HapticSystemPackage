@@ -1,0 +1,26 @@
+{
+  "author": {
+    "name": "HapticSystem",
+    "email": "zxc0.38zxc@gmail.com",
+    "url": "https://test.tw"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": "*"
+  },
+  "description": "HapticSystem package",
+  "displayName": "HapticSystemPackage",
+  "keywords": [
+    "HapticSystem",
+    "Package"
+  ],
+  "name": "com.ygm.hapticsystem_package",
+  "samples": [
+    {
+      "displayName": "HapticSystem_Demo",
+      "description": "Demo HapticSystem",
+      "path": "Samples~/HapticSystem_Sample"
+    }
+  ],
+  "unity": "2020.3",
+  "version": "0.0.1"
+}
